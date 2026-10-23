@@ -1,4 +1,3 @@
-Jabit Developer ~ 
-Proyecto de curso de Programación Web UNILIBRE
+Jabit Developer ~ Math Equation Prototype 🤓🔢
 
-Página web: https://jabit-dev.github.io/ProgWebCorte1/
+Web Page: https://jabit-dev.github.io/ProgWebCorte1/
